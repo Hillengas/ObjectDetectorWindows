@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectDetectorUI", "ObjectDetectorUI\ObjectDetectorUI.csproj", "{98809855-1AAE-4529-AF25-2E42A93B4A06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98809855-1AAE-4529-AF25-2E42A93B4A06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98809855-1AAE-4529-AF25-2E42A93B4A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98809855-1AAE-4529-AF25-2E42A93B4A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98809855-1AAE-4529-AF25-2E42A93B4A06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A721579-BF7E-4B3C-A2FC-81737E28D533}
+	EndGlobalSection
+EndGlobal
