@@ -41,7 +41,7 @@ namespace ObjectDetectorUI
             var start = new ProcessStartInfo
             {
                 FileName = @"C:\Users\Alex\AppData\Local\Programs\Python\Python36\python.exe",
-                Arguments = @"C:\Users\Alex\Desktop\load_tf_model.py",
+                Arguments = @"C:\Users\Alex\Documents\GitHub\ObjectDetectorWindows\ObjectDetectorUI\ObjectDetectorLogic\load_tf_model.py",
                 UseShellExecute = false,
                 RedirectStandardOutput = true,
                 RedirectStandardError = true,
